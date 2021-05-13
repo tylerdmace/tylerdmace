@@ -1,1 +1,1 @@
-![s-glycoprotein](https://newsroom.uw.edu/sites/default/files/sars-cov-2_s_with_canvas2.jpg)
+![s-glycoprotein](https://upload.wikimedia.org/wikipedia/commons/e/e3/6VSB_spike_protein_SARS-CoV-2_homotrimer.png)
