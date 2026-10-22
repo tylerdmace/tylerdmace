@@ -1,1 +1,9 @@
-![s-glycoprotein](https://upload.wikimedia.org/wikipedia/commons/e/e3/6VSB_spike_protein_SARS-CoV-2_homotrimer.png)
+<div align="center">
+
+<img src="./profile.svg" alt="Tyler Mace" width="100%"/>
+
+<br/>
+
+[Website](https://yoursite.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/tylerdmace) &nbsp;·&nbsp; [Email](mailto:you@example.com) &nbsp;·&nbsp; [Full CV](./CV.md)
+
+</div>
